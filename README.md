@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulrazaq Adisa
 
-I'm a curious and passionate **Computer Engineering student** who builds things at the intersection of **software, hardware, and AI**. I love shipping real-world solutions—from smart websites to embedded systems.
+I'm a curious and passionate **Computer Engineer** who builds things at the intersection of **software, hardware, and AI**. I love shipping real-world solutions—from smart websites to embedded systems.
 
 ## 🚀 What I Do
 
